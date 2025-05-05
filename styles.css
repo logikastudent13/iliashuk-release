@@ -15,6 +15,7 @@ header{
 }
 header a{
     font-size: 25px;
+    color:black;
 }
 main{
     display: flex;
