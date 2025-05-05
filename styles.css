@@ -81,7 +81,7 @@ font-weight: 700;
     left: 2%;
 align-items: center;
 }
-.controls p,a{
+.controls p,.controls a{
     color: white;
     border: 3px solid white;
     padding: 7px;
